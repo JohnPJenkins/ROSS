@@ -241,6 +241,38 @@ struct tw_bf
   unsigned int    c29:1;
   unsigned int    c30:1;
   unsigned int    c31:1;
+  unsigned int    c32:1;
+  unsigned int    c33:1;
+  unsigned int    c34:1;
+  unsigned int    c35:1;
+  unsigned int    c36:1;
+  unsigned int    c37:1;
+  unsigned int    c38:1;
+  unsigned int    c39:1;
+  unsigned int    c40:1;
+  unsigned int    c41:1;
+  unsigned int    c42:1;
+  unsigned int    c43:1;
+  unsigned int    c44:1;
+  unsigned int    c45:1;
+  unsigned int    c46:1;
+  unsigned int    c47:1;
+  unsigned int    c48:1;
+  unsigned int    c49:1;
+  unsigned int    c50:1;
+  unsigned int    c51:1;
+  unsigned int    c52:1;
+  unsigned int    c53:1;
+  unsigned int    c54:1;
+  unsigned int    c55:1;
+  unsigned int    c56:1;
+  unsigned int    c57:1;
+  unsigned int    c58:1;
+  unsigned int    c59:1;
+  unsigned int    c60:1;
+  unsigned int    c61:1;
+  unsigned int    c62:1;
+  unsigned int    c63:1;
 };
 
 /**
